@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="">
 
 ## Hi there, I'm Amanda 👋🏼
-I'm a 26 year old developer student from Brazil and currently working at Capgemini.
+I'm a 27 year old developer student from Brazil.
 
 Here are some information about my learning:
 
