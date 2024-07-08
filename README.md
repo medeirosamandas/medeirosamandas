@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Sou desenvolvedora full stack em formação.
 
-[Clique aqui para ter acesso aos meus certificados](https://github.com/medeirosamandas/medeirosamandas/tree/main/certificados)
+[Clique aqui para ter acesso aos meus certificados](https://github.com/medeirosamandas/medeirosamandas/tree/main/certificados)</div>
 <!--
 Here are some information about my learning:
 
@@ -67,4 +67,3 @@ Here are some information about my learning:
   <a href="https://www.linkedin.com/in/medeirosamandas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>-->
-    </div>
