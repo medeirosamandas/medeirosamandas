@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Sou desenvolvedora full stack em formação.
 
 [Clique aqui para ter acesso aos meus certificados](https://github.com/medeirosamandas/medeirosamandas/tree/main/certificados)
-<--
+<!--
 Here are some information about my learning:
 
 ### Frontend
