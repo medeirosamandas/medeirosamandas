@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Sou desenvolvedora full stack em formação.
 
 [Clique aqui para ter acesso aos meus certificados](https://github.com/medeirosamandas/medeirosamandas/tree/main/certificados)
-
+<--
 Here are some information about my learning:
 
 ### Frontend
@@ -66,5 +66,5 @@ Here are some information about my learning:
   <a href = "mailto:medeiros.amandas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/medeirosamandas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-</div>
+</div>-->
     </div>
